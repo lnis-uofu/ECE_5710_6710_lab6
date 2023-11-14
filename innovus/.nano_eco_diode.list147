@@ -1,0 +1,29 @@
+FORMATVERSION 1
+ADDINST ANTENNA picosoc_top/DIODE_296 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_2350 -
+ADDINST ANTENNA picosoc_top/DIODE_297 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_genblk2.pcpi_div_n_1832 -
+ADDINST ANTENNA picosoc_top/DIODE_298 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_genblk2.pcpi_div_n_1832 -
+ADDINST ANTENNA picosoc_top/DIODE_299 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_1889 -
+ADDINST ANTENNA picosoc_top/DIODE_300 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_decoded_imm_j[15] -
+ADDINST ANTENNA picosoc_top/DIODE_301 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_decoded_imm_j[15] -
+ADDINST ANTENNA picosoc_top/DIODE_302 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_cpuregs_wrdata[26] -
+ADDINST ANTENNA picosoc_top/DIODE_303 1 addPortAsNeeded
+INSTTERM A clk_PAD -
+ADDINST ANTENNA picosoc_top/DIODE_304 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_reg_op2\[6\]_9133 -
+ADDINST ANTENNA picosoc_top/DIODE_305 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_reg_op2\[6\]_9133 -
+ADDINST ANTENNA picosoc_top/DIODE_306 1 addPortAsNeeded
+INSTTERM A iomem_addr29_PAD -
+ADDINST ANTENNA picosoc_top/DIODE_307 1 addPortAsNeeded
+INSTTERM A iomem_addr29_PAD -
+ADDINST ANTENNA picosoc_top/DIODE_308 1 addPortAsNeeded
+INSTTERM A resetn_PAD -
+ADDINST ANTENNA picosoc_top/DIODE_309 1 addPortAsNeeded
+INSTTERM A resetn_PAD -

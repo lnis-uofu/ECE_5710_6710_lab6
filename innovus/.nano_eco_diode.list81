@@ -1,0 +1,65 @@
+FORMATVERSION 1
+ADDINST ANTENNA picosoc_top/DIODE_201 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_7599 -
+ADDINST ANTENNA picosoc_top/DIODE_202 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_7599 -
+ADDINST ANTENNA picosoc_top/DIODE_203 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_1[13] -
+ADDINST ANTENNA picosoc_top/DIODE_204 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_1[19] -
+ADDINST ANTENNA picosoc_top/DIODE_205 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_1[18] -
+ADDINST ANTENNA picosoc_top/DIODE_206 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_1[20] -
+ADDINST ANTENNA picosoc_top/DIODE_207 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_1[17] -
+ADDINST ANTENNA picosoc_top/DIODE_208 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_1[12] -
+ADDINST ANTENNA picosoc_top/DIODE_209 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_1[21] -
+ADDINST ANTENNA picosoc_top/DIODE_210 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_1[11] -
+ADDINST ANTENNA picosoc_top/DIODE_211 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_1[22] -
+ADDINST ANTENNA picosoc_top/DIODE_212 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_1[10] -
+ADDINST ANTENNA picosoc_top/DIODE_213 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_1[23] -
+ADDINST ANTENNA picosoc_top/DIODE_214 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_1[15] -
+ADDINST ANTENNA picosoc_top/DIODE_215 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_1[24] -
+ADDINST ANTENNA picosoc_top/DIODE_216 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_1[7] -
+ADDINST ANTENNA picosoc_top/DIODE_217 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_1[25] -
+ADDINST ANTENNA picosoc_top/DIODE_218 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_1[27] -
+ADDINST ANTENNA picosoc_top/DIODE_219 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_1[6] -
+ADDINST ANTENNA picosoc_top/DIODE_220 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_1[26] -
+ADDINST ANTENNA picosoc_top/DIODE_221 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_1[5] -
+ADDINST ANTENNA picosoc_top/DIODE_222 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_1[9] -
+ADDINST ANTENNA picosoc_top/DIODE_223 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_1[3] -
+ADDINST ANTENNA picosoc_top/DIODE_224 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_1[4] -
+ADDINST ANTENNA picosoc_top/DIODE_225 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_1[8] -
+ADDINST ANTENNA picosoc_top/DIODE_226 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_907 -
+ADDINST ANTENNA picosoc_top/DIODE_227 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_907 -
+ADDINST ANTENNA picosoc_top/DIODE_228 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_cpuregs_wrdata[2] -
+ADDINST ANTENNA picosoc_top/DIODE_229 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_cpuregs_wrdata[0] -
+ADDINST ANTENNA picosoc_top/DIODE_230 1 addPortAsNeeded
+INSTTERM A clk_PAD -
+ADDINST ANTENNA picosoc_top/DIODE_231 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_is_lui_auipc_jal_jalr_addi_add_sub -
+ADDINST ANTENNA picosoc_top/DIODE_232 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_is_lui_auipc_jal_jalr_addi_add_sub -

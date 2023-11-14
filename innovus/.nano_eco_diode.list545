@@ -1,0 +1,5 @@
+FORMATVERSION 1
+ADDINST ANTENNA soc/DIODE_184 1 addPortAsNeeded
+INSTTERM A soc/soc_cpu_reg_pc[28] -
+ADDINST ANTENNA soc/DIODE_185 1 addPortAsNeeded
+INSTTERM A soc/soc_cpu_reg_pc[28] -

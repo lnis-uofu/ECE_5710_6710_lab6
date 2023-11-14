@@ -1,0 +1,9 @@
+FORMATVERSION 1
+ADDINST ANTENNA picosoc_top/DIODE_203 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_8658 -
+ADDINST ANTENNA picosoc_top/DIODE_204 1 addPortAsNeeded
+INSTTERM A clk_PAD -
+ADDINST ANTENNA picosoc_top/DIODE_205 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_reg_pc[16] -
+ADDINST ANTENNA picosoc_top/DIODE_206 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_reg_pc[16] -

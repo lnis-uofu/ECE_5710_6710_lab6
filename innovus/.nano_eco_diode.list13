@@ -1,0 +1,19 @@
+FORMATVERSION 1
+ADDINST ANTENNA DIODE_93 1 addPortAsNeeded
+INSTTERM A cpu_cpuregs_wrdata[24] -
+ADDINST ANTENNA DIODE_94 1 addPortAsNeeded
+INSTTERM A cpu_cpuregs_wrdata[25] -
+ADDINST ANTENNA DIODE_95 1 addPortAsNeeded
+INSTTERM A cpu_cpuregs_wrdata[25] -
+ADDINST ANTENNA DIODE_96 1 addPortAsNeeded
+INSTTERM A cpu_cpuregs_wrdata[25] -
+ADDINST ANTENNA DIODE_97 1 addPortAsNeeded
+INSTTERM A cpu_cpuregs_wrdata[28] -
+ADDINST ANTENNA DIODE_98 1 addPortAsNeeded
+INSTTERM A cpu_cpuregs_wrdata[28] -
+ADDINST ANTENNA DIODE_99 1 addPortAsNeeded
+INSTTERM A clk -
+ADDINST ANTENNA DIODE_100 1 addPortAsNeeded
+INSTTERM A iomem_addr[7] -
+ADDINST ANTENNA DIODE_101 1 addPortAsNeeded
+INSTTERM A iomem_addr[7] -

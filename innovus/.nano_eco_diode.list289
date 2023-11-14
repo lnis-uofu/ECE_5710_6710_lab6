@@ -1,0 +1,55 @@
+FORMATVERSION 1
+ADDINST ANTENNA picosoc_top/DIODE_209 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_cpuregs_rdata2[19] -
+ADDINST ANTENNA picosoc_top/DIODE_210 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_cpuregs_rdata2[19] -
+ADDINST ANTENNA picosoc_top/DIODE_211 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_7588 -
+ADDINST ANTENNA picosoc_top/DIODE_212 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_1374 -
+ADDINST ANTENNA picosoc_top/DIODE_213 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_1396 -
+ADDINST ANTENNA picosoc_top/DIODE_214 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_7552 -
+ADDINST ANTENNA picosoc_top/DIODE_215 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_1344 -
+ADDINST ANTENNA picosoc_top/DIODE_216 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_8666 -
+ADDINST ANTENNA picosoc_top/DIODE_217 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_7570 -
+ADDINST ANTENNA picosoc_top/DIODE_218 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_7560 -
+ADDINST ANTENNA picosoc_top/DIODE_219 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_1385 -
+ADDINST ANTENNA picosoc_top/DIODE_220 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_7564 -
+ADDINST ANTENNA picosoc_top/DIODE_221 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_1352 -
+ADDINST ANTENNA picosoc_top/DIODE_222 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_7569 -
+ADDINST ANTENNA picosoc_top/DIODE_223 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_7544 -
+ADDINST ANTENNA picosoc_top/DIODE_224 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_7575 -
+ADDINST ANTENNA picosoc_top/DIODE_225 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_1361 -
+ADDINST ANTENNA picosoc_top/DIODE_226 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_1348 -
+ADDINST ANTENNA picosoc_top/DIODE_227 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_7558 -
+ADDINST ANTENNA picosoc_top/DIODE_228 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_1378 -
+ADDINST ANTENNA picosoc_top/DIODE_229 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_1[16] -
+ADDINST ANTENNA picosoc_top/DIODE_230 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_7546 -
+ADDINST ANTENNA picosoc_top/DIODE_231 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_1372 -
+ADDINST ANTENNA picosoc_top/DIODE_232 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_1367 -
+ADDINST ANTENNA picosoc_top/DIODE_233 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_1395 -
+ADDINST ANTENNA picosoc_top/DIODE_234 1 addPortAsNeeded
+INSTTERM A clk_PAD -
+ADDINST ANTENNA picosoc_top/DIODE_235 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_decoded_rs1[1] -

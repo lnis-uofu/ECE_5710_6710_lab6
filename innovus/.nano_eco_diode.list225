@@ -1,0 +1,31 @@
+FORMATVERSION 1
+ADDINST ANTENNA picosoc_top/DIODE_256 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_alu_out_q[2] -
+ADDINST ANTENNA picosoc_top/DIODE_257 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_alu_out_q[2] -
+ADDINST ANTENNA picosoc_top/DIODE_258 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_2[12] -
+ADDINST ANTENNA picosoc_top/DIODE_259 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_2[13] -
+ADDINST ANTENNA picosoc_top/DIODE_260 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_reg_out[5] -
+ADDINST ANTENNA picosoc_top/DIODE_261 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_reg_out[5] -
+ADDINST ANTENNA picosoc_top/DIODE_262 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_7569 -
+ADDINST ANTENNA picosoc_top/DIODE_263 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_8986 -
+ADDINST ANTENNA picosoc_top/DIODE_264 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_8986 -
+ADDINST ANTENNA picosoc_top/DIODE_265 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_862 -
+ADDINST ANTENNA picosoc_top/DIODE_266 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_862 -
+ADDINST ANTENNA picosoc_top/DIODE_267 1 addPortAsNeeded
+INSTTERM A irq_5_PAD -
+ADDINST ANTENNA picosoc_top/DIODE_268 1 addPortAsNeeded
+INSTTERM A clk_PAD -
+ADDINST ANTENNA picosoc_top/DIODE_269 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_decoded_imm[25] -
+ADDINST ANTENNA picosoc_top/DIODE_270 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_decoded_imm[25] -

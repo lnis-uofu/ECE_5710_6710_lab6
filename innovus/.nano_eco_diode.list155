@@ -1,0 +1,45 @@
+FORMATVERSION 1
+ADDINST ANTENNA picosoc_top/DIODE_293 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_pcpi_div_rd[18] -
+ADDINST ANTENNA picosoc_top/DIODE_294 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_pcpi_div_rd[18] -
+ADDINST ANTENNA picosoc_top/DIODE_295 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_4621 -
+ADDINST ANTENNA picosoc_top/DIODE_296 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_4621 -
+ADDINST ANTENNA picosoc_top/DIODE_297 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_3650 -
+ADDINST ANTENNA picosoc_top/DIODE_298 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_2119 -
+ADDINST ANTENNA picosoc_top/DIODE_299 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_2119 -
+ADDINST ANTENNA picosoc_top/DIODE_300 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_1[16] -
+ADDINST ANTENNA picosoc_top/DIODE_301 1 addPortAsNeeded
+INSTTERM A clk_PAD -
+ADDINST ANTENNA picosoc_top/DIODE_302 1 addPortAsNeeded
+INSTTERM A picosoc_top/mem_wdata[15] -
+ADDINST ANTENNA picosoc_top/DIODE_303 1 addPortAsNeeded
+INSTTERM A picosoc_top/mem_wdata[15] -
+ADDINST ANTENNA picosoc_top/DIODE_304 1 addPortAsNeeded
+INSTTERM A picosoc_top/mem_wdata[15] -
+ADDINST ANTENNA picosoc_top/DIODE_305 1 addPortAsNeeded
+INSTTERM A picosoc_top/mem_wdata[15] -
+ADDINST ANTENNA picosoc_top/DIODE_306 1 addPortAsNeeded
+INSTTERM A picosoc_top/mem_wdata[24] -
+ADDINST ANTENNA picosoc_top/DIODE_307 1 addPortAsNeeded
+INSTTERM A picosoc_top/mem_wdata[24] -
+ADDINST ANTENNA picosoc_top/DIODE_308 1 addPortAsNeeded
+INSTTERM A picosoc_top/mem_wdata[24] -
+ADDINST ANTENNA picosoc_top/DIODE_309 1 addPortAsNeeded
+INSTTERM A picosoc_top/spimemio_cfgreg_do[21] -
+ADDINST ANTENNA picosoc_top/DIODE_310 1 addPortAsNeeded
+INSTTERM A picosoc_top/spimemio_cfgreg_do[21] -
+ADDINST ANTENNA picosoc_top/DIODE_311 1 addPortAsNeeded
+INSTTERM A picosoc_top/mem_wdata[2] -
+ADDINST ANTENNA picosoc_top/DIODE_312 1 addPortAsNeeded
+INSTTERM A picosoc_top/mem_wdata[2] -
+ADDINST ANTENNA picosoc_top/DIODE_313 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_reg_op2\[5\]_9132 -
+ADDINST ANTENNA picosoc_top/DIODE_314 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_reg_op2\[5\]_9132 -

@@ -1,0 +1,65 @@
+FORMATVERSION 1
+ADDINST ANTENNA soc/DIODE_206 1 addPortAsNeeded
+INSTTERM A soc/soc_cpu_genblk1.pcpi_mul_mul_2402_47_n_2528 -
+ADDINST ANTENNA soc/DIODE_207 1 addPortAsNeeded
+INSTTERM A soc/soc_cpu_genblk1.pcpi_mul_mul_2402_47_n_2528 -
+ADDINST ANTENNA soc/DIODE_208 1 addPortAsNeeded
+INSTTERM A soc/FE_PDN16151_soc_n_300 -
+ADDINST ANTENNA soc/DIODE_209 1 addPortAsNeeded
+INSTTERM A soc/FE_PDN16430_soc_cpu_cpuregs_wrdata_18 -
+ADDINST ANTENNA soc/DIODE_210 1 addPortAsNeeded
+INSTTERM A soc/FE_PDN16438_soc_cpu_cpuregs_wrdata_4 -
+ADDINST ANTENNA soc/DIODE_211 1 addPortAsNeeded
+INSTTERM A soc/FE_PDN16444_soc_cpu_cpuregs_wrdata_1 -
+ADDINST ANTENNA soc/DIODE_212 1 addPortAsNeeded
+INSTTERM A soc/FE_PDN16414_soc_cpu_cpuregs_wrdata_9 -
+ADDINST ANTENNA soc/DIODE_213 1 addPortAsNeeded
+INSTTERM A soc/n_5506 -
+ADDINST ANTENNA soc/DIODE_214 1 addPortAsNeeded
+INSTTERM A soc/n_5506 -
+ADDINST ANTENNA soc/DIODE_215 1 addPortAsNeeded
+INSTTERM A soc/FE_PDN16409_soc_cpu_cpuregs_wrdata_8 -
+ADDINST ANTENNA soc/DIODE_216 1 addPortAsNeeded
+INSTTERM A soc/FE_PDN16433_soc_cpu_cpuregs_wrdata_6 -
+ADDINST ANTENNA soc/DIODE_217 1 addPortAsNeeded
+INSTTERM A soc/FE_PDN16424_soc_cpu_cpuregs_wrdata_5 -
+ADDINST ANTENNA soc/DIODE_218 1 addPortAsNeeded
+INSTTERM A soc/FE_PDN15903_n_5232 -
+ADDINST ANTENNA soc/DIODE_219 1 addPortAsNeeded
+INSTTERM A soc/FE_PDN16008_n_5230 -
+ADDINST ANTENNA soc/DIODE_220 1 addPortAsNeeded
+INSTTERM A soc/FE_PDN16102_iomem_wdata_23 -
+ADDINST ANTENNA soc/DIODE_221 1 addPortAsNeeded
+INSTTERM A soc/FE_PDN16105_flash_io1_oe -
+ADDINST ANTENNA soc/DIODE_222 1 addPortAsNeeded
+INSTTERM A soc/FE_PDN16105_flash_io1_oe -
+ADDINST ANTENNA soc/DIODE_223 1 addPortAsNeeded
+INSTTERM A soc/n_2323 -
+ADDINST ANTENNA soc/DIODE_224 1 addPortAsNeeded
+INSTTERM A soc/n_2323 -
+ADDINST ANTENNA soc/DIODE_225 1 addPortAsNeeded
+INSTTERM A soc/FE_PDN16146_iomem_wdata_17 -
+ADDINST ANTENNA soc/DIODE_226 1 addPortAsNeeded
+INSTTERM A soc/FE_PDN15940_n_5226 -
+ADDINST ANTENNA soc/DIODE_227 1 addPortAsNeeded
+INSTTERM A soc/FE_PDN16155_iomem_wdata_14 -
+ADDINST ANTENNA soc/DIODE_228 1 addPortAsNeeded
+INSTTERM A soc/FE_PDN16048_iomem_wdata_27 -
+ADDINST ANTENNA soc/DIODE_229 1 addPortAsNeeded
+INSTTERM A soc/FE_PDN16051_iomem_wdata_26 -
+ADDINST ANTENNA soc/DIODE_230 1 addPortAsNeeded
+INSTTERM A soc/FE_PDN16030_iomem_wdata_28 -
+ADDINST ANTENNA soc/DIODE_231 1 addPortAsNeeded
+INSTTERM A soc/FE_PDN16030_iomem_wdata_28 -
+ADDINST ANTENNA soc/DIODE_232 1 addPortAsNeeded
+INSTTERM A soc/FE_PDN16036_iomem_wdata_29 -
+ADDINST ANTENNA soc/DIODE_233 1 addPortAsNeeded
+INSTTERM A soc/FE_PDN15865_iomem_wdata_1 -
+ADDINST ANTENNA soc/DIODE_234 1 addPortAsNeeded
+INSTTERM A soc/n_5257 -
+ADDINST ANTENNA soc/DIODE_235 1 addPortAsNeeded
+INSTTERM A soc/n_5257 -
+ADDINST ANTENNA soc/DIODE_236 1 addPortAsNeeded
+INSTTERM A soc/FE_PDN16190_flash_io3_oe -
+ADDINST ANTENNA soc/DIODE_237 1 addPortAsNeeded
+INSTTERM A soc/FE_PDN16190_flash_io3_oe -

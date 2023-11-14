@@ -1,0 +1,15 @@
+FORMATVERSION 1
+ADDINST ANTENNA picosoc_top/DIODE_344 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_4479 -
+ADDINST ANTENNA picosoc_top/DIODE_345 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_4479 -
+ADDINST ANTENNA picosoc_top/DIODE_346 1 addPortAsNeeded
+INSTTERM A picosoc_top/inc_simpleuart_add_112_30_n_409 -
+ADDINST ANTENNA picosoc_top/DIODE_347 1 addPortAsNeeded
+INSTTERM A picosoc_top/inc_simpleuart_add_112_30_n_409 -
+ADDINST ANTENNA picosoc_top/DIODE_348 1 addPortAsNeeded
+INSTTERM A clk_PAD -
+ADDINST ANTENNA picosoc_top/DIODE_349 1 addPortAsNeeded
+INSTTERM A picosoc_top/mem_wdata[31] -
+ADDINST ANTENNA picosoc_top/DIODE_350 1 addPortAsNeeded
+INSTTERM A picosoc_top/mem_wdata[31] -

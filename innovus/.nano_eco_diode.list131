@@ -1,0 +1,49 @@
+FORMATVERSION 1
+ADDINST ANTENNA picosoc_top/DIODE_301 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_1945 -
+ADDINST ANTENNA picosoc_top/DIODE_302 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_1945 -
+ADDINST ANTENNA picosoc_top/DIODE_303 1 addPortAsNeeded
+INSTTERM A iomem_rdata26_PAD -
+ADDINST ANTENNA picosoc_top/DIODE_304 1 addPortAsNeeded
+INSTTERM A iomem_rdata26_PAD -
+ADDINST ANTENNA picosoc_top/DIODE_305 1 addPortAsNeeded
+INSTTERM A picosoc_top/CTS_7 -
+ADDINST ANTENNA picosoc_top/DIODE_306 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_cpuregs_wrdata[13] -
+ADDINST ANTENNA picosoc_top/DIODE_307 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_cpuregs_wrdata[13] -
+ADDINST ANTENNA picosoc_top/DIODE_308 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_1[15] -
+ADDINST ANTENNA picosoc_top/DIODE_309 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_1[21] -
+ADDINST ANTENNA picosoc_top/DIODE_310 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_1[19] -
+ADDINST ANTENNA picosoc_top/DIODE_311 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_1[16] -
+ADDINST ANTENNA picosoc_top/DIODE_312 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_1[24] -
+ADDINST ANTENNA picosoc_top/DIODE_313 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_decoded_imm_j[11] -
+ADDINST ANTENNA picosoc_top/DIODE_314 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_decoded_imm_j[11] -
+ADDINST ANTENNA picosoc_top/DIODE_315 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_cpuregs_wrdata[23] -
+ADDINST ANTENNA picosoc_top/DIODE_316 1 addPortAsNeeded
+INSTTERM A clk_PAD -
+ADDINST ANTENNA picosoc_top/DIODE_317 1 addPortAsNeeded
+INSTTERM A picosoc_top/mem_wdata[30] -
+ADDINST ANTENNA picosoc_top/DIODE_318 1 addPortAsNeeded
+INSTTERM A picosoc_top/mem_wdata[30] -
+ADDINST ANTENNA picosoc_top/DIODE_319 1 addPortAsNeeded
+INSTTERM A picosoc_top/spimemio_dout_data[6] -
+ADDINST ANTENNA picosoc_top/DIODE_320 1 addPortAsNeeded
+INSTTERM A picosoc_top/spimemio_dout_data[6] -
+ADDINST ANTENNA picosoc_top/DIODE_321 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_decoded_imm[18] -
+ADDINST ANTENNA picosoc_top/DIODE_322 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_decoded_imm[18] -
+ADDINST ANTENNA picosoc_top/DIODE_323 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_reg_op2\[10\]_9137 -
+ADDINST ANTENNA picosoc_top/DIODE_324 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_reg_op2\[10\]_9137 -

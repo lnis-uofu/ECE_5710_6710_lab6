@@ -1,0 +1,29 @@
+FORMATVERSION 1
+ADDINST ANTENNA soc/DIODE_224 1 addPortAsNeeded
+INSTTERM A soc/soc_cpu_alu_out_q[21] -
+ADDINST ANTENNA soc/DIODE_225 1 addPortAsNeeded
+INSTTERM A soc/soc_cpu_alu_out_q[21] -
+ADDINST ANTENNA soc/DIODE_226 1 addPortAsNeeded
+INSTTERM A soc/n_5994 -
+ADDINST ANTENNA soc/DIODE_227 1 addPortAsNeeded
+INSTTERM A soc/n_6562 -
+ADDINST ANTENNA soc/DIODE_228 1 addPortAsNeeded
+INSTTERM A soc/n_6562 -
+ADDINST ANTENNA soc/DIODE_229 1 addPortAsNeeded
+INSTTERM A soc/soc_cpu_genblk1.pcpi_mul_mul_2402_47_n_2330 -
+ADDINST ANTENNA soc/DIODE_230 1 addPortAsNeeded
+INSTTERM A soc/soc_cpu_genblk1.pcpi_mul_mul_2402_47_n_2330 -
+ADDINST ANTENNA soc/DIODE_231 1 addPortAsNeeded
+INSTTERM A soc/soc_cpu_genblk1.pcpi_mul_mul_2402_47_n_2255 -
+ADDINST ANTENNA soc/DIODE_232 1 addPortAsNeeded
+INSTTERM A soc/soc_cpu_genblk1.pcpi_mul_mul_2402_47_n_2255 -
+ADDINST ANTENNA soc/DIODE_233 1 addPortAsNeeded
+INSTTERM A soc/n_2587 -
+ADDINST ANTENNA soc/DIODE_234 1 addPortAsNeeded
+INSTTERM A soc/n_2588 -
+ADDINST ANTENNA soc/DIODE_235 1 addPortAsNeeded
+INSTTERM A soc/soc_n_300 -
+ADDINST ANTENNA soc/DIODE_236 1 addPortAsNeeded
+INSTTERM A soc/iomem_wdata[26] -
+ADDINST ANTENNA soc/DIODE_237 1 addPortAsNeeded
+INSTTERM A soc/iomem_wdata[26] -

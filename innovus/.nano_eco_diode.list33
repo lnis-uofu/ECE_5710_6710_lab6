@@ -1,0 +1,83 @@
+FORMATVERSION 1
+ADDINST ANTENNA DIODE_107 1 addPortAsNeeded
+INSTTERM A cpu_cpuregs_rdata2[10] -
+ADDINST ANTENNA DIODE_108 1 addPortAsNeeded
+INSTTERM A cpu_cpuregs_rdata2[10] -
+ADDINST ANTENNA DIODE_109 1 addPortAsNeeded
+INSTTERM A memory_output_w_1[23] -
+ADDINST ANTENNA DIODE_110 1 addPortAsNeeded
+INSTTERM A memory_output_w_1[26] -
+ADDINST ANTENNA DIODE_111 1 addPortAsNeeded
+INSTTERM A memory_output_w_1[25] -
+ADDINST ANTENNA DIODE_112 1 addPortAsNeeded
+INSTTERM A memory_output_w_1[24] -
+ADDINST ANTENNA DIODE_113 1 addPortAsNeeded
+INSTTERM A memory_output_w_1[28] -
+ADDINST ANTENNA DIODE_114 1 addPortAsNeeded
+INSTTERM A memory_output_w_1[17] -
+ADDINST ANTENNA DIODE_115 1 addPortAsNeeded
+INSTTERM A memory_output_w_1[22] -
+ADDINST ANTENNA DIODE_116 1 addPortAsNeeded
+INSTTERM A memory_output_w_1[16] -
+ADDINST ANTENNA DIODE_117 1 addPortAsNeeded
+INSTTERM A memory_output_w_1[18] -
+ADDINST ANTENNA DIODE_118 1 addPortAsNeeded
+INSTTERM A memory_output_w_1[15] -
+ADDINST ANTENNA DIODE_119 1 addPortAsNeeded
+INSTTERM A memory_output_w_1[14] -
+ADDINST ANTENNA DIODE_120 1 addPortAsNeeded
+INSTTERM A memory_output_w_1[12] -
+ADDINST ANTENNA DIODE_121 1 addPortAsNeeded
+INSTTERM A memory_output_w_1[11] -
+ADDINST ANTENNA DIODE_122 1 addPortAsNeeded
+INSTTERM A memory_output_w_1[9] -
+ADDINST ANTENNA DIODE_123 1 addPortAsNeeded
+INSTTERM A memory_output_w_1[8] -
+ADDINST ANTENNA DIODE_124 1 addPortAsNeeded
+INSTTERM A memory_output_w_1[0] -
+ADDINST ANTENNA DIODE_125 1 addPortAsNeeded
+INSTTERM A memory_output_w_1[7] -
+ADDINST ANTENNA DIODE_126 1 addPortAsNeeded
+INSTTERM A memory_output_w_1[6] -
+ADDINST ANTENNA DIODE_127 1 addPortAsNeeded
+INSTTERM A spimemio_dout_data[7] -
+ADDINST ANTENNA DIODE_128 1 addPortAsNeeded
+INSTTERM A spimemio_dout_data[7] -
+ADDINST ANTENNA DIODE_129 1 addPortAsNeeded
+INSTTERM A iomem_wdata[14] -
+ADDINST ANTENNA DIODE_130 1 addPortAsNeeded
+INSTTERM A iomem_wdata[14] -
+ADDINST ANTENNA DIODE_131 1 addPortAsNeeded
+INSTTERM A iomem_wdata[12] -
+ADDINST ANTENNA DIODE_132 1 addPortAsNeeded
+INSTTERM A iomem_wdata[12] -
+ADDINST ANTENNA DIODE_133 1 addPortAsNeeded
+INSTTERM A iomem_wdata[12] -
+ADDINST ANTENNA DIODE_134 1 addPortAsNeeded
+INSTTERM A iomem_wdata[12] -
+ADDINST ANTENNA DIODE_135 1 addPortAsNeeded
+INSTTERM A iomem_wdata[25] -
+ADDINST ANTENNA DIODE_136 1 addPortAsNeeded
+INSTTERM A iomem_wdata[25] -
+ADDINST ANTENNA DIODE_137 1 addPortAsNeeded
+INSTTERM A iomem_wdata[30] -
+ADDINST ANTENNA DIODE_138 1 addPortAsNeeded
+INSTTERM A iomem_addr[23] -
+ADDINST ANTENNA DIODE_139 1 addPortAsNeeded
+INSTTERM A iomem_addr[23] -
+ADDINST ANTENNA DIODE_140 1 addPortAsNeeded
+INSTTERM A cpu_reg_op2\[9\]_9136 -
+ADDINST ANTENNA DIODE_141 1 addPortAsNeeded
+INSTTERM A cpu_reg_op2\[9\]_9136 -
+ADDINST ANTENNA DIODE_142 1 addPortAsNeeded
+INSTTERM A n_8892 -
+ADDINST ANTENNA DIODE_143 1 addPortAsNeeded
+INSTTERM A n_8892 -
+ADDINST ANTENNA DIODE_144 1 addPortAsNeeded
+INSTTERM A cpu_reg_op1\[26\]_9121 -
+ADDINST ANTENNA DIODE_145 1 addPortAsNeeded
+INSTTERM A cpu_reg_op1\[26\]_9121 -
+ADDINST ANTENNA DIODE_146 1 addPortAsNeeded
+INSTTERM A resetn -
+ADDINST ANTENNA DIODE_147 1 addPortAsNeeded
+INSTTERM A resetn -

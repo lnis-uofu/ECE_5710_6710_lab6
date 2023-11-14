@@ -1,0 +1,19 @@
+FORMATVERSION 1
+ADDINST ANTENNA soc/DIODE_230 1 addPortAsNeeded
+INSTTERM A soc/n_5331 -
+ADDINST ANTENNA soc/DIODE_231 1 addPortAsNeeded
+INSTTERM A soc/n_5316 -
+ADDINST ANTENNA soc/DIODE_232 1 addPortAsNeeded
+INSTTERM A soc/n_6589 -
+ADDINST ANTENNA soc/DIODE_233 1 addPortAsNeeded
+INSTTERM A soc/n_6589 -
+ADDINST ANTENNA soc/DIODE_234 1 addPortAsNeeded
+INSTTERM A soc/soc_cpu_genblk1.pcpi_mul_n_120 -
+ADDINST ANTENNA soc/DIODE_235 1 addPortAsNeeded
+INSTTERM A soc/iomem_wdata[7] -
+ADDINST ANTENNA soc/DIODE_236 1 addPortAsNeeded
+INSTTERM A soc/iomem_wdata[7] -
+ADDINST ANTENNA soc/DIODE_237 1 addPortAsNeeded
+INSTTERM A soc/soc_cpu_latched_branch -
+ADDINST ANTENNA soc/DIODE_238 1 addPortAsNeeded
+INSTTERM A soc/soc_cpu_latched_branch -

@@ -1,0 +1,39 @@
+FORMATVERSION 1
+ADDINST ANTENNA picosoc_top/DIODE_339 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_2[20] -
+ADDINST ANTENNA picosoc_top/DIODE_340 1 addPortAsNeeded
+INSTTERM A picosoc_top/memory_output_w_2[20] -
+ADDINST ANTENNA picosoc_top/DIODE_341 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_pcpi_timeout -
+ADDINST ANTENNA picosoc_top/DIODE_342 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_2999 -
+ADDINST ANTENNA picosoc_top/DIODE_343 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_2999 -
+ADDINST ANTENNA picosoc_top/DIODE_344 1 addPortAsNeeded
+INSTTERM A picosoc_top/CTS_487 -
+ADDINST ANTENNA picosoc_top/DIODE_345 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_cpuregs_wrdata[17] -
+ADDINST ANTENNA picosoc_top/DIODE_346 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_cpuregs_wrdata[17] -
+ADDINST ANTENNA picosoc_top/DIODE_347 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_cpuregs_wrdata[31] -
+ADDINST ANTENNA picosoc_top/DIODE_348 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_cpuregs_wrdata[31] -
+ADDINST ANTENNA picosoc_top/DIODE_349 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_cpuregs_wrdata[31] -
+ADDINST ANTENNA picosoc_top/DIODE_350 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_8717 -
+ADDINST ANTENNA picosoc_top/DIODE_351 1 addPortAsNeeded
+INSTTERM A clk_PAD -
+ADDINST ANTENNA picosoc_top/DIODE_352 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_69 -
+ADDINST ANTENNA picosoc_top/DIODE_353 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_69 -
+ADDINST ANTENNA picosoc_top/DIODE_354 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_reg_op1\[16\]_9111 -
+ADDINST ANTENNA picosoc_top/DIODE_355 1 addPortAsNeeded
+INSTTERM A picosoc_top/cpu_reg_op1\[16\]_9111 -
+ADDINST ANTENNA picosoc_top/DIODE_356 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_8930 -
+ADDINST ANTENNA picosoc_top/DIODE_357 1 addPortAsNeeded
+INSTTERM A picosoc_top/n_8930 -
