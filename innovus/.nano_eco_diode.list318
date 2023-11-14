@@ -1,5 +1,0 @@
-FORMATVERSION 1
-ADDINST ANTENNA soc/DIODE_96 1 addPortAsNeeded
-INSTTERM A soc/soc_cpu_genblk1.pcpi_mul_mul_2402_47_n_2238 -
-ADDINST ANTENNA soc/DIODE_97 1 addPortAsNeeded
-INSTTERM A soc/soc_cpu_genblk1.pcpi_mul_mul_2402_47_n_2238 -
